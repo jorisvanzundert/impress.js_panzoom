@@ -22,6 +22,9 @@ and change the 1 to 2:
 
 `window.impress.addPreStepLeavePlugin( substep, 2 )`
 
+## Can I see it in action first?
+Sure, pick on of my Prezs, e.g.: http://jorisvanzundert.net/prezs/presentations/EADH_2018/EADH_2018.html#/DeepLearningModel (Although I prefer Firefox for anything else, Chrome must be advised for its speed.)
+
 ## Comments etc.
 If you think of any improvements, feature requests, bugs, please use this repo to notify me.
 
